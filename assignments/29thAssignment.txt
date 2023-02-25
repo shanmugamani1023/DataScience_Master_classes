@@ -1,0 +1,75 @@
+1.Who developed python programming language
+   Guido van Rossum
+
+2.which type of programming does python support,
+   Object-oriented programming and structured programming are fully supported,
+
+3.Is python case sensitive when dealing with identifiers?   
+   Yes, Python is case sensitive when dealing with identifiers
+
+4.Extension of python file is .py
+  ex.main.py
+
+5.Python is interpreted language
+
+6.name = 'shan'
+    
+if name == 'shan':
+    print('Correct Name!!')
+else:
+	print('InCorrect Name:(')
+print('HI')
+
+7.Single line comments - # 
+
+8.We can do it in by 2methods:
+ 8.1- We can use terminal 
+      In terminal we can type python -v
+      then we can see python version
+
+ 8.2 -we can import python_version() function using platform module
+
+
+9.Using lambda we can create anonymous function :
+    # this will do the same thing with out using functions
+    lam = lambda x,y:x**2*y
+    print(lam(5,2)) 
+
+10.PIP-  PIP stands for "Pip Installs Packages" and is a package management system used to install and manage software packages written in Python.
+
+11.Inbuild functions:
+    1.print()
+    2.type()
+    3.len()
+    4.str()
+    5.bool()
+    6.int()
+    7.float()
+
+12.An identifier can have a maximum length of 79 characters in Python
+
+13.Benefits of using python:
+    1.python syntax is very much easy
+    2.so ,we can easy to learn
+    3.its supports oops
+    4.python useful for variousfield.
+       4.1 - web development
+       4.2 -AI based application
+       4.3 -Robotics
+       4.4 -Computer Vision based applications
+    5.Community support is high
+    6.More well defined libraries.
+
+14.In python memory management done by two process,
+   14.1 - Garbage Collector
+         Garbage Collector used to deallocate the unused Objects.user dont want to Collect manually.
+   14.2 -Reference counting
+         If two variable have same values means python doesnot create any new memory for new one,it will set Reference to new one from  old one.
+15. Python Installation
+Step 1 — Downloading the Python Installer.
+Step 2 — Running the Executable Installer.
+Step 3 — Adding Python to the Environment Variables (optional)
+Step 4 — Verify the Python Installation.
+
+16.Indentation is important for python
+
