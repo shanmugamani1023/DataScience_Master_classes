@@ -1,0 +1,17 @@
+PCA Indepth Geometric And Mathematical InDepth Intuition ML Algorithms.mp4
+Darshan_Complete_Compter_Vision_Notes.pdf
+.ipynb_checkpoints
+.idea
+Dataset
+carpet_od_20epochs.h5
+saved_models
+CNN_ALL_architechtures_jupyter_files.zip
+*.zip
+*.pdf
+*.jpg
+*.jpeg
+mode.pth
+model.pth
+*xlsx
+DataScience_Master_classes
+machine_learning/*
